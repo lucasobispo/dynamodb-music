@@ -1,0 +1,5 @@
+# Comentários podem ser adicionados usando o caractere #
+arquivos_temporarios/
+env/
+.env
+*.log
