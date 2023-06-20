@@ -15,7 +15,7 @@ env\Scripts\activate.bat  # Windows
 pip install -r requirements.txt
 ```
 
-#Rodando o docker 
+# Rodando o docker 
 
 ```
 docker build -t dynamodb:1.0 .

@@ -1,5 +1,6 @@
 # Comentários podem ser adicionados usando o caractere #
 arquivos_temporarios/
 env/
+.idea
 .env
 *.log
